@@ -1,0 +1,121 @@
+[
+  {
+    "city" : "Toshkent",
+    "date" : "15.05.2024",
+    "condition" : "Bulutli",
+    "afternoon" : "+31",
+    "night" : "+23",
+    "humidity" : "26 %",
+    "moon" : "Birinchi chorak",
+    "link" : "https://obhavo.uz/tashkent"
+  },
+  {
+    "city" : "Andijon",
+    "date" : "15.05.2024",
+    "condition" : "Bulutli",
+    "afternoon" : "+35",
+    "night" : "+21",
+    "humidity" : "15 %",
+    "moon" : "Birinchi chorak",
+    "link" : "https://obhavo.uz/andijan"
+  },
+  {
+    "city" : "Samarqand",
+    "date" : "15.05.2024",
+    "condition" : "Yomg'ir",
+    "afternoon" : "+29",
+    "night" : "+22",
+    "humidity" : "21 %",
+    "moon" : "Birinchi chorak"
+  },
+  {
+    "city" : "Navoiy",
+    "date" : "15.05.2024",
+    "condition" : "Yomg'ir",
+    "afternoon" : "+31",
+    "night" : "+20",
+    "humidity" : "17 %",
+    "moon" : "Birinchi chorak"
+  },
+  {
+    "city" : "Buxoro",
+    "date" : "15.05.2024",
+    "condition" : "Bulutli",
+    "afternoon" : "+29",
+    "night" : "+22",
+    "humidity" : "22 %",
+    "moon" : "Birinchi chorak"
+  },
+  {
+    "city" : "Farg'ona",
+    "date" : "15.05.2024",
+    "condition" : "Bulutli",
+    "afternoon" : "+36",
+    "night" : "+21",
+    "humidity" : "18 %",
+    "moon" : "Birinchi chorak"
+  },
+  {
+    "city" : "Jizzax",
+    "date" : "15.05.2024",
+    "condition" : "Bulutli",
+    "afternoon" : "+32",
+    "night" : "+21",
+    "humidity" : "24 %",
+    "moon" : "Birinchi chorak"
+  },
+  {
+    "city" : "Nukus",
+    "date" : "15.05.2024",
+    "condition" : "Yomg'ir",
+    "afternoon" : "+29",
+    "night" : "+19",
+    "humidity" : "36 %",
+    "moon" : "Birinchi chorak"
+  },
+  {
+    "city" : "Qarshi",
+    "date" : "15.05.2024",
+    "condition" : "Bulutli",
+    "afternoon" : "+34",
+    "night" : "+23",
+    "humidity" : "17 %",
+    "moon" : "Birinchi chorak"
+  },
+  {
+    "city" : "Guliston",
+    "date" : "15.05.2024",
+    "condition" : "Bulutli",
+    "afternoon" : "+34",
+    "night" : "+23",
+    "humidity" : "17 %",
+    "moon" : "Birinchi chorak"
+  },
+  {
+    "city" : "Termiz",
+    "date" : "15.05.2024",
+    "condition" : "Bulutli",
+    "afternoon" : "+37",
+    "night" : "+26",
+    "humidity" : "19 %",
+    "moon" : "Birinchi chorak"
+  },
+  {
+    "city" : "Namangan",
+    "date" : "15.05.2024",
+    "condition" : "Bulutli",
+    "afternoon" : "+37",
+    "night" : "+23",
+    "humidity" : "16 %",
+    "moon" : "Birinchi chorak"
+  },
+  {
+    "city" : "Xiva",
+    "date" : "15.05.2024",
+    "condition" : "Yomg'ir",
+    "afternoon" : "+29",
+    "night" : "+21",
+    "humidity" : "36 %",
+    "moon" : "Birinchi chorak"
+  }
+]

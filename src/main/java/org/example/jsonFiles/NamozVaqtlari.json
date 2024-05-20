@@ -1,0 +1,612 @@
+[
+  {
+    "place" : "Toshkent",
+    "bomdod" : "03:29" ,
+    "quyosh" : "05:04",
+    "peshin" : "12:24",
+    "asr" : "17:25",
+    "shom" : "19:37",
+    "xufton" : "21:08",
+    "sana" : "15.05.2024"
+  },
+  {
+    "place" : "Angren",
+    "bomdod" : "03:27",
+    "quyosh" : "05:02",
+    "peshin" : "12:21",
+    "asr" : "17:21",
+    "shom" : "19:33",
+    "xufton" : "21:04",
+    "sana" : "15.05.2024"
+  },
+  {
+    "place" : "Piskent",
+    "bomdod" : "03:30",
+    "quyosh" : "05:05",
+    "peshin" : "12:24",
+    "asr" : "17:24",
+    "shom" : "19:36",
+    "xufton" : "21:07",
+    "sana" : "15.05.2024"
+  },
+  {
+    "place" : "Bekobod",
+    "bomdod" : "03:33",
+    "quyosh" : "05:08",
+    "peshin" : "12:24",
+    "asr" : "17:22",
+    "shom" : "19:34",
+    "xufton" : "21:05",
+    "sana" : "15.05.2024"
+  },
+  {
+    "place" : "Parkent",
+    "bomdod" : "03:26",
+    "quyosh" : "05:00",
+    "peshin" : "12:20",
+    "asr" : "17:19",
+    "shom" : "19:32",
+    "xufton" : "21:02",
+    "sana" : "15.05.2024"
+  },
+  {
+    "place" : "G'azalkent",
+    "bomdod" : "03:26",
+    "quyosh" : "05:00",
+    "peshin" : "12:20",
+    "asr" : "17:19",
+    "shom" : "19:32",
+    "xufton" : "21:02",
+    "sana" : "15.05.2024"
+  },
+  {
+    "place" : "Olmaliq",
+    "bomdod" : "03:25",
+    "quyosh" : "04:58",
+    "peshin" : "12:19",
+    "asr" : "17:17",
+    "shom" : "19:31",
+    "xufton" : "21:00",
+    "sana" : "15.05.2024"
+  },
+  {
+    "place" : "Bo'ka",
+    "bomdod" : "03:33",
+    "quyosh" : "05:08",
+    "peshin" : "12:24",
+    "asr" : "17:22",
+    "shom" : "19:34",
+    "xufton" : "21:05",
+    "sana" : "15.05.2024"
+  },
+  {
+    "place" : "Yangiyo'l",
+    "bomdod" : "03:34",
+    "quyosh" : "05:10",
+    "peshin" : "12:25",
+    "asr" : "17:24",
+    "shom" : "19:35",
+    "xufton" : "21:07",
+    "sana" : "15.05.2024"
+  },
+  {
+    "place" : "Nurafshon",
+    "bomdod" : "03:28",
+    "quyosh" : "05:01",
+    "peshin" : "12:22",
+    "asr" : "17:20",
+    "shom" : "19:34",
+    "xufton" : "21:03",
+    "sana" : "15.05.2024"
+  },
+  {
+    "place" : "Andijon",
+    "bomdod" : "03:19",
+    "quyosh" : "04:54",
+    "peshin" : "12:12",
+    "asr" : "17:11",
+    "shom" : "19:23",
+    "xufton" : "20:54",
+    "sana" : "15.05.2024"
+  },
+  {
+    "place" : "Xonobod",
+    "bomdod" : "03:16",
+    "quyosh" : "04:49",
+    "peshin" : "12:09",
+    "asr" : "17:09",
+    "shom" : "19:21",
+    "xufton" : "20:52",
+    "sana" : "15.05.2024"
+  },
+  {
+    "place" : "Shahrixon",
+    "bomdod" : "03:20",
+    "quyosh" : "04:52",
+    "peshin" : "12:13",
+    "asr" : "17:16",
+    "shom" : "19:25",
+    "xufton" : "20:59",
+    "sana" : "15.05.2024"
+  },
+  {
+    "place" : "Xo'jaobod",
+    "bomdod" : "03:18",
+    "quyosh" : "04:53",
+    "peshin" : "12:11",
+    "asr" : "17:10",
+    "shom" : "19:22",
+    "xufton" : "20:53",
+    "sana" : "15.05.2024"
+  },
+  {
+    "place" : "Asaka",
+    "bomdod" : "03:19",
+    "quyosh" : "04:54",
+    "peshin" : "12:12",
+    "asr" : "17:11",
+    "shom" : "19:23",
+    "xufton" : "20:54",
+    "sana" : "15.05.2024"
+  },
+  {
+    "place" : "Marhamat",
+    "bomdod" : "03:19",
+    "quyosh" : "04:54",
+    "peshin" : "12:12",
+    "asr" : "17:11",
+    "shom" : "19:23",
+    "xufton" : "20:54",
+    "sana" : "15.05.2024"
+  },
+  {
+    "place" : "Poytug'",
+    "bomdod" : "03:19",
+    "quyosh" : "04:54",
+    "peshin" : "12:12",
+    "asr" : "17:11",
+    "shom" : "19:23",
+    "xufton" : "20:54",
+    "sana" : "15.05.2024"
+  },
+  {
+    "place" : "Bo'ston",
+    "bomdod" : "03:18",
+    "quyosh" : "04:53",
+    "peshin" : "12:11",
+    "asr" : "17:10",
+    "shom" : "19:22",
+    "xufton" : "20:53",
+    "sana" : "15.05.2024"
+  },
+  {
+    "place" : "Farg'ona",
+    "bomdod" : "03:23",
+    "quyosh" : "04:58",
+    "peshin" : "12:14",
+    "asr" : "17:13",
+    "shom" : "19:25",
+    "xufton" : "20:56",
+    "sana" : "15.05.2024"
+  },
+  {
+    "place" : "Marg'ilon",
+    "bomdod" : "03:23",
+    "quyosh" : "04:58",
+    "peshin" : "12:14",
+    "asr" : "17:13",
+    "shom" : "19:25",
+    "xufton" : "20:56",
+    "sana" : "15.05.2024"
+  },
+  {
+    "place" : "Qo'qon",
+    "bomdod" : "03:25",
+    "quyosh" : "05:01",
+    "peshin" : "12:17",
+    "asr" : "17:16",
+    "shom" : "19:28",
+    "xufton" : "20:59",
+    "sana" : "15.05.2024"
+  },
+  {
+    "place" : "Quva",
+    "bomdod" : "03:21",
+    "quyosh" : "04:56",
+    "peshin" : "12:13",
+    "asr" : "17:12",
+    "shom" : "19:24",
+    "xufton" : "20:55",
+    "sana" : "15.05.2024"
+  },
+  {
+    "place" : "Rishton",
+    "bomdod" : "03:25",
+    "quyosh" : "05:00",
+    "peshin" : "12:16",
+    "asr" : "17:15",
+    "shom" : "19:27",
+    "xufton" : "20:58",
+    "sana" : "15.05.2024"
+  },
+  {
+    "place" : "Bog'dod",
+    "bomdod" : "03:25",
+    "quyosh" : "05:00",
+    "peshin" : "12:16",
+    "asr" : "17:15",
+    "shom" : "19:27",
+    "xufton" : "20:58",
+    "sana" : "15.05.2024"
+  },
+  {
+    "place" : "Oltiariq",
+    "bomdod" : "03:26",
+    "quyosh" : "05:01",
+    "peshin" : "12:17",
+    "asr" : "17:16",
+    "shom" : "19:28",
+    "xufton" : "20:59",
+    "sana" : "15.05.2024"
+  },
+  {
+    "place" : "Samarqand",
+    "bomdod" : "03:45",
+    "quyosh" : "05:20",
+    "peshin" : "12:33",
+    "asr" : "17:30",
+    "shom" : "19:42",
+    "xufton" : "21:13",
+    "sana" : "15.05.2024"
+  },
+  {
+    "place" : "Ishtixon",
+    "bomdod" : "03:46",
+    "quyosh" : "05:21",
+    "peshin" : "12:35",
+    "asr" : "17:33",
+    "shom" : "19:45",
+    "xufton" : "21:16",
+    "sana" : "15.05.2024"
+  },
+  {
+    "place" : "Mirbozor",
+    "bomdod" : "03:48",
+    "quyosh" : "05:23",
+    "peshin" : "12:37",
+    "asr" : "17:35",
+    "shom" : "19:47",
+    "xufton" : "21:18",
+    "sana" : "15.05.2024"
+  },
+  {
+    "place" : "Kattaqo'rg'on",
+    "bomdod" : "03:47",
+    "quyosh" : "05:22",
+    "peshin" : "12:36",
+    "asr" : "17:34",
+    "shom" : "19:46",
+    "xufton" : "21:17",
+    "sana" : "15.05.2024"
+  },
+  {
+    "place" : "Urgut",
+    "bomdod" : "03:45",
+    "quyosh" : "05:20",
+    "peshin" : "12:32",
+    "asr" : "17:28",
+    "shom" : "19:40",
+    "xufton" : "21:11",
+    "sana" : "15.05.2024"
+  },
+  {
+    "place" : "Buxoro",
+    "bomdod" : "03:55",
+    "quyosh" : "05:30",
+    "peshin" : "12:43",
+    "asr" : "17:40",
+    "shom" : "19:52",
+    "xufton" : "21:23",
+    "sana" : "15.05.2024"
+  },
+  {
+    "place" : "Gazli",
+    "bomdod" : "03:57",
+    "quyosh" : "05:32",
+    "peshin" : "12:47",
+    "asr" : "17:45",
+    "shom" : "19:57",
+    "xufton" : "21:28",
+    "sana" : "15.05.2024"
+  },
+  {
+    "place" : "G'ijduvon",
+    "bomdod" : "03:52",
+    "quyosh" : "05:27",
+    "peshin" : "12:43",
+    "asr" : "17:40",
+    "shom" : "19:52",
+    "xufton" : "21:23",
+    "sana" : "15.05.2024"
+  },
+  {
+    "place" : "Qorako'l",
+    "bomdod" : "03:59",
+    "quyosh" : "05:34",
+    "peshin" : "12:50",
+    "asr" : "17:42",
+    "shom" : "19:54",
+    "xufton" : "21:25",
+    "sana" : "15.05.2024"
+  },
+  {
+    "place" : "Jondor",
+    "bomdod" : "03:55",
+    "quyosh" : "05:30",
+    "peshin" : "12:43",
+    "asr" : "17:40",
+    "shom" : "19:52",
+    "xufton" : "21:23",
+    "sana" : "15.05.2024"
+  },
+  {
+    "place" : "Guliston",
+    "bomdod" : "03:34",
+    "quyosh" : "05:09",
+    "peshin" : "12:26",
+    "asr" : "17:25",
+    "shom" : "19:37",
+    "xufton" : "21:08",
+    "sana" : "15.05.2024"
+  },
+  {
+    "place" : "Sardoba",
+    "bomdod" : "03:36",
+    "quyosh" : "05:11",
+    "peshin" : "12:26",
+    "asr" : "17:27",
+    "shom" : "19:39",
+    "xufton" : "21:10",
+    "sana" : "15.05.2024"
+  },
+  {
+    "place" : "Sirdaryo",
+    "bomdod" : "03:34",
+    "quyosh" : "05:09",
+    "peshin" : "12:26",
+    "asr" : "17:25",
+    "shom" : "19:37",
+    "xufton" : "21:08",
+    "sana" : "15.05.2024"
+  },
+  {
+    "place" : "Boyovut",
+    "bomdod" : "03:36",
+    "quyosh" : "05:11",
+    "peshin" : "12:26",
+    "asr" : "17:27",
+    "shom" : "19:39",
+    "xufton" : "21:10",
+    "sana" : "15.05.2024"
+  },
+  {
+    "place" : "Paxtaobod",
+    "bomdod" : "03:40",
+    "quyosh" : "05:15",
+    "peshin" : "12:30",
+    "asr" : "17:28",
+    "shom" : "19:40",
+    "xufton" : "21:11",
+    "sana" : "15.05.2024"
+  },
+  {
+    "place" : "Jizzax",
+    "bomdod" : "03:40",
+    "quyosh" : "05:15",
+    "peshin" : "12:30",
+    "asr" : "17:28",
+    "shom" : "19:40",
+    "xufton" : "21:11",
+    "sana" : "15.05.2024"
+  },
+  {
+    "place" : "Zomin",
+    "bomdod" : "03:38",
+    "quyosh" : "05:13",
+    "peshin" : "12:28",
+    "asr" : "17:25",
+    "shom" : "19:37",
+    "xufton" : "21:08",
+    "sana" : "15.05.2024"
+  },
+  {
+    "place" : "Forish",
+    "bomdod" : "03:42",
+    "quyosh" : "05:17",
+    "peshin" : "12:32",
+    "asr" : "17:31",
+    "shom" : "19:43",
+    "xufton" : "21:14",
+    "sana" : "15.05.2024"
+  },
+  {
+    "place" : "G'allaorol",
+    "bomdod" : "03:41",
+    "quyosh" : "05:16",
+    "peshin" : "12:31",
+    "asr" : "17:29",
+    "shom" : "19:41",
+    "xufton" : "21:12",
+    "sana" : "15.05.2024"
+  },
+  {
+    "place" : "Do'stlik",
+    "bomdod" : "03:40",
+    "quyosh" : "05:15",
+    "peshin" : "12:30",
+    "asr" : "17:28",
+    "shom" : "19:40",
+    "xufton" : "21:11",
+    "sana" : "15.05.2024"
+  },
+  {
+    "place" : "Navoiy",
+    "bomdod" : "03:50",
+    "quyosh" : "05:25",
+    "peshin" : "12:40",
+    "asr" : "17:38",
+    "shom" : "19:50",
+    "xufton" : "21:21",
+    "sana" : "15.05.2024"
+  },
+  {
+    "place" : "Zarafshon",
+    "bomdod" : "03:48",
+    "quyosh" : "05:23",
+    "peshin" : "12:44",
+    "asr" : "17:50",
+    "shom" : "20:02",
+    "xufton" : "21:33",
+    "sana" : "15.05.2024"
+  },
+  {
+    "place" : "Konimex",
+    "bomdod" : "03:50",
+    "quyosh" : "05:25",
+    "peshin" : "12:41",
+    "asr" : "17:39",
+    "shom" : "19:51",
+    "xufton" : "21:22",
+    "sana" : "15.05.2024"
+  },
+  {
+    "place" : "Nurota",
+    "bomdod" : "03:47",
+    "quyosh" : "05:22",
+    "peshin" : "12:38",
+    "asr" : "17:37",
+    "shom" : "19:49",
+    "xufton" : "21:20",
+    "sana" : "15.05.2024"
+  },
+  {
+    "place" : "Uchquduq",
+    "bomdod" : "03:48",
+    "quyosh" : "05:23",
+    "peshin" : "12:47",
+    "asr" : "17:50",
+    "shom" : "20:02",
+    "xufton" : "21:33",
+    "sana" : "15.05.2024"
+  },
+  {
+    "place" : "Nukus",
+    "bomdod" : "04:02",
+    "quyosh" : "05:37",
+    "peshin" : "13:03",
+    "asr" : "18:07",
+    "shom" : "20:19",
+    "xufton" : "21:50",
+    "sana" : "15.05.2024"
+  },
+  {
+    "place" : "Mo'ynoq",
+    "bomdod" : "03:57",
+    "quyosh" : "05:32",
+    "peshin" : "13:05",
+    "asr" : "18:12",
+    "shom" : "20:24",
+    "xufton" : "21:55",
+    "sana" : "15.05.2024"
+  },
+  {
+    "place" : "Taxtako'pir",
+    "bomdod" : "03:56",
+    "quyosh" : "05:31",
+    "peshin" : "13:00",
+    "asr" : "18:05",
+    "shom" : "20:17",
+    "xufton" : "21:48",
+    "sana" : "15.05.2024"
+  },
+  {
+    "place" : "To'rtko'l",
+    "bomdod" : "04:01",
+    "quyosh" : "05:36",
+    "peshin" : "12:57",
+    "asr" : "17:59",
+    "shom" : "20:11",
+    "xufton" : "21:42",
+    "sana" : "15.05.2024"
+  },
+  {
+    "place" : "Qo'ng'irot",
+    "bomdod" : "04:01",
+    "quyosh" : "05:36",
+    "peshin" : "13:06",
+    "asr" : "18:11",
+    "shom" : "20:23",
+    "xufton" : "21:54",
+    "sana" : "15.05.2024"
+  },
+  {
+    "place" : "Urganch",
+    "bomdod" : "03:55",
+    "quyosh" : "05:29",
+    "peshin" : "12:59",
+    "asr" : "18:03",
+    "shom" : "20:16",
+    "xufton" : "21:46",
+    "sana" : "15.05.2024"
+  },
+  {
+    "place" : "Hazorasp",
+    "bomdod" : "04:01",
+    "quyosh" : "05:36",
+    "peshin" : "12:57",
+    "asr" : "17:59",
+    "shom" : "20:11",
+    "xufton" : "21:42",
+    "sana" : "15.05.2024"
+  },
+  {
+    "place" : "Xonqa",
+    "bomdod" : "04:00",
+    "quyosh" : "05:34",
+    "peshin" : "12:56",
+    "asr" : "17:57",
+    "shom" : "20:10",
+    "xufton" : "21:40",
+    "sana" : "15.05.2024"
+  },
+  {
+    "place" : "Yangibozor",
+    "bomdod" : "03:55",
+    "quyosh" : "05:29",
+    "peshin" : "12:59",
+    "asr" : "18:03",
+    "shom" : "20:16",
+    "xufton" : "21:46",
+    "sana" : "15.05.2024"
+  },
+  {
+    "place" : "Shovot",
+    "bomdod" : "03:56",
+    "quyosh" : "05:31",
+    "peshin" : "13:00",
+    "asr" : "18:05",
+    "shom" : "20:17",
+    "xufton" : "21:48",
+    "sana" : "15.05.2024"
+  },
+  {
+    "place" : "Xiva",
+    "bomdod" : "03:55",
+    "quyosh" : "05:29",
+    "peshin" : "12:59",
+    "asr" : "18:03",
+    "shom" : "20:16",
+    "xufton" : "21:46",
+    "sana" : "15.05.2024"
+  }
+]
